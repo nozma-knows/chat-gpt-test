@@ -14,9 +14,9 @@
     Navigate into the project directory and make a copy of the example environment variables file
     ```
     cd chat-gpt-test
-    cp .env.example .env
+    cp .env.example .env.local
     ```
-    Copy your secret API key and set it as the `OPENAI_API_KEY` in your newely created `.env` file
+    Copy your secret API key and set it as the `OPENAI_API_KEY` in your newely created `.env.local` file
 5. Install dependencies and run the app
 
     ```
